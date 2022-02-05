@@ -52,7 +52,9 @@ export default function ContactSection() {
               className="h-[141px]"
             ></Field>
             <div className="text-right -mt-4">
-              <Button variant="black">Send</Button>
+              <Button href="#contact" variant="black">
+                Send
+              </Button>
             </div>
           </form>
         </div>

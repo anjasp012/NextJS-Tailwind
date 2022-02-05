@@ -32,7 +32,7 @@ export default function Navbar() {
       <div
         className={`${
           offCanvas ? "right-0" : "-right-full"
-        } fixed md:hidden bg-white/90 z-10 top-0 h-full w-full transition-all`}
+        } fixed md:hidden bg-white/95 z-10 top-0 h-full w-full transition-all`}
       >
         <img
           src="x.svg"

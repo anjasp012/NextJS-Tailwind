@@ -3,7 +3,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## DEMO Web
 
-tailwind-nextjs.netlify.app
+https://tailwind-nextjs.netlify.app/
 
 ## Getting Started
 
